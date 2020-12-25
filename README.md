@@ -14,9 +14,11 @@ Articles and documents about shogi, translated from Japanese to English.
 
 [Chess culture and shogi culture](karakoro/201204-chess-culture-and-shogi-culture.md) - translation of 2020-12-04 note.com post
 
-(NEW!) [lishogi diary 1](karakoro/201206-lishogi-diary-1.md) - translation of 2020-12-06 note.com post
+[lishogi diary 1](karakoro/201206-lishogi-diary-1.md) - translation of 2020-12-06 note.com post
 
 (NEW!) [Shogi and Fischer increment](karakoro/201220-shogi-and-Fischer-increment.md) - translation of 2020-12-20 note.com post
+
+(NEW!) [Huge lishogi update!](karakoro/201224-huge-lishogi-update.md) - translation of 2020-12-24 note.com post
 
 ### By 杉並委員長 (ch_suginami) ###
 

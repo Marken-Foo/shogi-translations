@@ -1,6 +1,6 @@
 # lishogi latest updates (as of nighttime, 20th December) #
 
-*(Original post by ch_suginami-san: https://note.com/ch_suginami/n/na9fdb8a2970f )*
+*(Original post by ch_suginami-san: https://note.com/ch_suginami/n/na9fdb8a2970f)*
 
 ## Updates ##
 

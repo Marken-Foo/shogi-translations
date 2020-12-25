@@ -1,6 +1,6 @@
 # lishogi updates and regarding the byoyomi format #
 
-*(Original post by ch_suginami-san: https://note.com/ch_suginami/n/n22781eba6766 )*
+*(Original post by ch_suginami-san: https://note.com/ch_suginami/n/n22781eba6766)*
 
 ## Correction ##
 
