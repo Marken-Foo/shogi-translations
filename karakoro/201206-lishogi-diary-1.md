@@ -1,6 +1,6 @@
 # lishogi diary 1 #
 
-*(Original post by karakoro-san: https://note.com/karakorororo/n/n149601dd0157 )*
+*(Original post by karakoro-san: https://note.com/karakorororo/n/n149601dd0157)*
 
 I'm one of the few Japanese people currently hanging around on lishogi.
 
