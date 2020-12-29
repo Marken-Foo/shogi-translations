@@ -4,7 +4,7 @@
 
 ## Updates ##
 
-Kifu notation has been extended. Next to the original western notation style, Kawasaki and Japanese notation styles have been added. So now it looks much better from a Japanese aesthetic. If one were to find fault, it would be that the 「打つ」 for dropping pieces and the 「右左引直」 for disambiguation are not supported, and for the latter case the "departure square coordinate" is given just as in chess. For those who are familiar with computer shogi, perhaps it would be easier to describe as a mix with the CSA format.
+Kifu notation has been extended. Next to the original western notation style, Kawasaki and Japanese notation styles have been added. So now it looks much better to the Japanese aesthetic. If one were to find fault, it would be that the 「打つ」 for dropping pieces and the 「右左引直」 for disambiguation are not supported, and for the latter case the "departure square coordinates" are given just as in chess. For those who are familiar with computer shogi, perhaps it would be easier to describe it as a mix with the CSA format.
 
 However, it would be unreasonable to demand this much improvement at the current juncture. It's good enough how far it's come.
 
@@ -15,7 +15,7 @@ However, it would be unreasonable to demand this much improvement at the current
 
 ## Sincere wishes and personal talk ##
 
-Matchmaking is harsh. Although I sit there every night trying to wait for a rated game as best I can, matches usually don't come. I'm writing this post at Japanese nighttime while watching the top page of lishogi, but there are fewer than 10 ongoing real-time games, even including bots, and it feels sad and lonely.
+Matchmaking is harsh. Although I sit there every night trying to wait for a rated game as best I can, matches usually don't come. I'm writing this post at night in Japan while watching the main page of lishogi, but there are fewer than 10 ongoing real-time games, even including bots, and it feels sad and lonely.
 
 With a framework based on lichess, the functionality and design are more than sufficient; rather, there are areas where it's more developed than other sites. Yet, there are few people.
 
@@ -23,13 +23,13 @@ I should add here that I'm connected to the development side, so I know how much
 
 On a personal note, as some of you may already know, I've been doing some bot development and management on Discord. The content of which is the chess and shogi problems I compose from my own games, as well as tsumeshogi problems contributed from others. Another project aimed at YouTube streamers is a feature-rich automatic comment translation program (using DeepL). Making this available takes a small amount of personal funds: for the translation + API usage fees, and for the cost of a minimal server to run it on. The cost-effectiveness of this? Well stuff the cost-effectiveness of a personal hobby, but it'd be a waste to let developed features rot after having spent money on it, and in any case they've been useful enough to be missed if they were to go down. This situation is quite the dilemma.
 
-I know this shouldn't be said, but unrelated to whether an app is free or paid, there are apps where we can't help but doubt or be unsatisfied with their contents. And then there is lishogi, which while being completely free still manages to offer many features. This alone is fairly surprising. But the development team is far from satisfied. They're looking at more advanced features, and they're probably continuing with development right now as I write this. It's really humbling.
+I know this shouldn't be said, but unrelated to whether an app is free or paid, there are apps where we can't help but doubt or be dissatisfied with their contents. And then there is lishogi, which while being completely free still manages to offer many features. This point alone is fairly surprising. But the development team is far from satisfied. They're looking at more advanced features, and they're probably continuing with development right now as I write this. It's really humbling.
 
-However, it's also become the case that there aren't enough people to use these features. It's true that there are people out there who don't use lishogi because byoyomi hasn't been implemented yet. I've heard that it hasn't been easy to implement, and I'm sure that's the case. For this reason, it's understandable to hesitate recommending lishogi to others. But what do users who come to lishogi really want? To play shogi, isn't it? Here's an analogy to explain my feelings: going to the supermarket to buy groceries, but seeing nothing being sold!
+However, it's also turned out that there aren't enough people to use these features. It's true that there are people out there who don't use lishogi because byoyomi hasn't been implemented yet. I've heard that it hasn't been easy to implement, and I'm sure that's the case. For this reason, it's understandable to hesitate recommending lishogi to others. But what do users who come to lishogi really want? To play shogi, isn't it? Here's an analogy to explain my feelings: going to the supermarket to buy groceries, but seeing nothing being sold!
 
 I've written a lot on this one topic. But I think I've said what I wanted to through this post. I use 81Dojo, and recently Shogi Club 24. I use Shogi Wars for streaming too. But part of me is still not satisfied. I can't get lishogi out of my mind, where I can freely set the time control, and where there is sufficient functionality to even play some shogi variants.
 
-People's emotions come in waves. Fads come and go. Since lishogi has settled down for now, I think it's a good idea to once again expand the userbase. No feature exists without complaints about it, so I think it'll be fine for the developers to just steadily do what they can. We will support them as well as we can.
+People's emotions come in waves. Fads come and go. Since lishogi has settled down for now, I think it's a good idea to once again expand the userbase. No feature exists without drawing complaints, so I think it'll be fine for the developers to just steadily do what they can. We will support them as well as we can.
 
 Finally, a little something I heard of. Few people haven't heard of the Toyota Motor Corporation; well, at least in Japan. One of its well-known management policies is "Kaizen"\*. This is the principle where any suggestion is adopted if it brings a benefit, no matter the context or how small a detail may be; even the placement of a single component in a factory will be taken into consideration if it improves efficiency.
 
