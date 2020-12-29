@@ -68,7 +68,9 @@ As suggested in Discord chat, tournament names like "Tataki-no-fu Arena" or "Kin
 
 ------
 
-\* Translation of the tweet by math26: "I don't think that younger shogi fans would know this, but there once was a shogi journal magazine that calculated rating point values for professional players based on their official match results, and the JSA raised an objection to this (the reason was something like 'don't publish things that could negate the meaning of the Juni-sen.')"
+\* Translation of the tweet by math26:
+
+> I don't think that younger shogi fans would know this, but there once was a shogi journal magazine that calculated rating point values for professional players based on their official match results, and the JSA raised an objection to this (the reason was something like "don't publish things that could negate the meaning of the Juni-sen.")
 
 TN: The Juni-sen is the league system used to decide the challenger to the Meijin, as well as being one of the criteria for professional dan promotion.
 
