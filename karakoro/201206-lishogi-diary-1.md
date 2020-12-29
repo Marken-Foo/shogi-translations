@@ -44,11 +44,11 @@ Even if we don't do anything, there will be an explosion of interest.
 
 The most effective advertising is probably Shogi Sekai *(TN: 将棋世界、 a monthly shogi magazine published by the JSA)*.
 
-Currently, the Japanese people who have used lishogi at least once are just a very limited group of lichess users and shogi Vtubers. Probably most people don't even know lsihogi exists. It's still in beta, so maybe wide-ranging advertising isn't needed yet.
+Currently, the Japanese people who have used lishogi at least once are just a very limited group of lichess users and shogi Vtubers. Probably most people don't even know lishogi exists. It's still in beta, so maybe wide-ranging advertising isn't needed yet.
 
 I'd like to see some life on Twitter.
 
-*([Link to the lishogi twitter account with no tweets at the moment](https://twitter.com/lishogi))*
+*([Link to the lishogi twitter account with no tweets at the time of writing](https://twitter.com/lishogi))*
 
 ## Translation ##
 
