@@ -10,7 +10,7 @@ But yesterday when I happened to look at a kifu, the notation system had been up
 
 ## Happy words ##
 
-I've become quite involved with lichess, and as I've said before, along the way I've been asked more than a few times for my opinions as a Japanese player. During this time, there are a few passionate people who have taken the trouble to find and read these articles, and even translating those articles saying "this is worth sharing" ([English translations are here](https://gist.github.com/Marken-Foo/4232579bdfb0a87ce646cb2f79719b98)). I have only gratitude for that.
+I've become quite involved with lishogi, and as I've said before, along the way I've been asked more than a few times for my opinions as a Japanese player. During this time, there are a few passionate people who have taken the trouble to find and read these articles, and even translating those articles saying "this is worth sharing" ([English translations are here](https://gist.github.com/Marken-Foo/4232579bdfb0a87ce646cb2f79719b98)). I have only gratitude for that.
 
 I'm not amazing at shogi, and don't have a lot of followers, so recently I've been acutely appreciative that people are willing to listen to my opinions and discuss them. I'm grateful to everyone involved, and now more than ever feel a greater reponsibility for what I write.
 
