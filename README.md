@@ -22,9 +22,11 @@ Articles and documents about shogi, translated from Japanese to English.
 
 [Shogi and Fischer increment](karakoro/201220-shogi-and-Fischer-increment.md) - translation of 2020-12-20 note.com post
 
-(NEW!) [Huge lishogi update!](karakoro/201224-huge-lishogi-update.md) - translation of 2020-12-24 note.com post
+[Huge lishogi update!](karakoro/201224-huge-lishogi-update.md) - translation of 2020-12-24 note.com post
 
 (NEW!) [lishogi diary 3](karakoro/201229-lishogi-diary-3.md) - translation of 2020-12-29 note.com post
+
+(NEW!) [Data on major shogi sites](karakoro/201230-major-shogi-sites.md) - translation of 2020-12-30 note.com post
 
 ### By 杉並委員長 (ch_suginami) ###
 
