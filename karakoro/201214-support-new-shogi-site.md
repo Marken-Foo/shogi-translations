@@ -25,7 +25,7 @@ That is the lishogi project. This time I'll explain simply **how to support it**
 ## Table of contents ##
 
 1. Posting on social media
-2. Cultural adjustments
+2. Cultural adjustment
 3. Bug reports and feature suggestions
 4. Become a Patron
 5. Get involved in development
