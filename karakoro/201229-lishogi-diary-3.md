@@ -14,7 +14,7 @@ Something like the current state of lidraughts could be the goal.
 
 <br/>
 
-To be honest, because I'm disappointed with current shogi sites feature-wise, and because I can't abide the policies of ■■■■, I am supporting lishogi. I feel that many Japanese on Discord are to some extent unhappy with the current state of the Japanese shogi world.
+To be honest, because I'm disappointed with current shogi sites feature-wise, and because I can't abide the policies of \*\*\*\*\*\*, I am supporting lishogi. I feel that many Japanese on Discord are to some extent unhappy with the current state of the Japanese shogi world.
 
 Just as the grass is greener on the other side, chessplayers are seeing the shogi world in a better light. A little while ago, a post on lichess about gender in chess started trending, and I was at a loss for words when I saw a comment like "I hope that the shogi world doesn't become like that". In the same way, regarding byoyomi and increment, from where I stand I think that increment is more rational, but the developers with a chess background think byoyomi is better. Of course, there are also those for whom the only bad thing about shogi is byoyomi. Leaving aside the pros and cons, my personal take is that because of the incompatibility of KIF and CSA with an increment time control, lishogi might be heading towards having only byoyomi.
 
