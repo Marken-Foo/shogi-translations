@@ -41,3 +41,5 @@ Articles and documents about shogi, translated from Japanese to English.
 [KIF file format specification](KIF-standard.md)
 
 [CSA file format specification](CSA-standard.md)
+
+[unofficial BOD specification](BOD-features.md)
