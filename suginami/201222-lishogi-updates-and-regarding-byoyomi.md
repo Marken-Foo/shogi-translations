@@ -51,3 +51,5 @@ I'd like to hear your candid opinions, and share them as far as possible.
 ------
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/ch_suginami/n/n22781eba6766) and give it a like?

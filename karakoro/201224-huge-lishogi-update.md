@@ -52,3 +52,5 @@ I look forward to the future growth of lishogi.
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/nd0c2c2e4042c) and give it a like?

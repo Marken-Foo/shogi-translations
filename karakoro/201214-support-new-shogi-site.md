@@ -128,3 +128,5 @@ Incidentally, the mysterious creature in the thumbnail is a mascot created by Wi
 > I think this will be plenty of return value.
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n2430ed35f363) and give it a like?

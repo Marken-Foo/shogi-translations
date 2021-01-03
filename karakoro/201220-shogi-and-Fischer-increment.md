@@ -38,3 +38,5 @@ Byoyomi is mainstream and is still the most in demand, but who's to say that Fis
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n59ecdc1261fb) and give it a like?

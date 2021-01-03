@@ -62,3 +62,5 @@ I don't know if it's from chess or lichess, but there seems to be a culture of e
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n149601dd0157) and give it a like?

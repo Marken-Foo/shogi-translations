@@ -127,3 +127,5 @@ You're always welcome on the Discord and in the forums.
 
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n304912c0fd7f) and give it a like?

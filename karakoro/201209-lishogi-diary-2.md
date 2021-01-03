@@ -72,3 +72,5 @@ Writing a post like "Eyes on a shogi piece!? Mysterious foreign culture Bigsby" 
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n9d88b79a05b7) and give it a like?

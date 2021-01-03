@@ -94,4 +94,8 @@ Annan shogi seemed to be new to many, but doubutsu shogi, chu shogi, 4-player sh
 Although this was a long post, it's good to write something like this once in a while. If anything else pops up I'll write another post. It's also probably about time for me to write the next entry in the next-move series...
 
 
+------
+
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/ch_suginami/n/n1f0d9ff49b31) and give it a like?

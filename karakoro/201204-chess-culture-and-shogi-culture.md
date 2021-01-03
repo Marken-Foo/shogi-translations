@@ -76,3 +76,5 @@ TN: The Juni-sen is the league system used to decide the challenger to the Meiji
 
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n806887c435e0) and give it a like?

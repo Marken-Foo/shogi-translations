@@ -48,3 +48,5 @@ The player level ranges from beginners to just short of high-dan. There are scar
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/ndfaa3eff963e) and give it a like?

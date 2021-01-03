@@ -49,3 +49,5 @@ I believe that **it would be good if lishogi, with a complete set of features, c
 ------
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n6413990e80c1) and give it a like?

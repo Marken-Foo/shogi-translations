@@ -46,8 +46,9 @@ Right now, my biggest fear is this.
 
 ------
 
-
 \* "Kaizen" is a management philosophy known in the English-speaking world as well, originating from Toyota as explained in this post as well. For more information, see the [Wikipedia entry on Kaizen](https://en.wikipedia.org/wiki/Kaizen).
 
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/ch_suginami/n/na9fdb8a2970f) and give it a like?

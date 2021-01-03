@@ -79,3 +79,5 @@ However, there are also many other ways to implement a tactics trainer, for exam
 \*\* TN note: "surpassing AI" or 「AI超え」 is a term that has entered the Japanese lexicon at large after Fujii Souta's thusly-acclaimed 58th move S31, in the 2nd game of the BO5 Kisei match against Watanabe Akira, on 2020-06-28.
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n3d352a787214) and give it a like?

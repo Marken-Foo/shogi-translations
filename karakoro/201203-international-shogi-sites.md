@@ -81,3 +81,5 @@ In a few years, with the maturation of international shogi sites and apps, I loo
 ------
 
 *~translated from Japanese by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/nbfc14b45f3a6) and give it a like?

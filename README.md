@@ -4,6 +4,8 @@ Articles and documents about shogi, translated from Japanese to English.
 
 ## note.com posts ##
 
+If you like these posts, help out the authors by going to the original note.com articles and "like" them by pressing the heart at the end!
+
 ### By karakoro ###
 
 [Hopes for lishogi](karakoro/201125-hopes-for-lishogi.md) - translation of 2020-11-25 note.com post

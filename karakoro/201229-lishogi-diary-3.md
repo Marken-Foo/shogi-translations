@@ -32,3 +32,5 @@ Since I can't do dev work, I can only do simple miscellaneous tasks to help out.
 ------
 
 *~translated by Illion*
+
+If you liked this post, why not go to the [original article on note.com](https://note.com/karakorororo/n/n1a856e67e11d) and give it a like?
