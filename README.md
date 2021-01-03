@@ -18,7 +18,7 @@ Articles and documents about shogi, translated from Japanese to English.
 
 [lishogi diary 2](karakoro/201209-lishogi-diary-2.md) - translation of 2020-12-09 note.com post
 
-(NEW!) [Support the new shogi site!](karakoro/201214-support-new-shogi-site.md) - translation of 2020-12-14 note.com post
+[Support the new shogi site!](karakoro/201214-support-new-shogi-site.md) - translation of 2020-12-14 note.com post
 
 [Shogi and Fischer increment](karakoro/201220-shogi-and-Fischer-increment.md) - translation of 2020-12-20 note.com post
 
@@ -27,6 +27,8 @@ Articles and documents about shogi, translated from Japanese to English.
 (NEW!) [lishogi diary 3](karakoro/201229-lishogi-diary-3.md) - translation of 2020-12-29 note.com post
 
 (NEW!) [Data on major shogi sites](karakoro/201230-major-shogi-sites.md) - translation of 2020-12-30 note.com post
+
+(NEW!) [lishogi is more fun when you customise it!](karakoro/210102-lishogi-customise.md) - translation of 2021-01-02 note.com post
 
 ### By 杉並委員長 (ch_suginami) ###
 
@@ -42,4 +44,4 @@ Articles and documents about shogi, translated from Japanese to English.
 
 [CSA file format specification](CSA-standard.md)
 
-[unofficial BOD specification](BOD-features.md)
+[unofficial BOD format specification](BOD-features.md)
