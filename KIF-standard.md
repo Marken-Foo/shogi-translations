@@ -1,8 +1,8 @@
 # Kifu file KIF format #
 
-*This document is a translation of the original Japanese text at http://kakinoki.o.oo7.jp/kif_format.html on 2020-11-11 by Marken Foo.*
+*This document is a translation of the original Japanese text at http://kakinoki.o.oo7.jp/kif_format.html*
 
-- 2020/11/11 translated to English
+- 2020/11/11 translated to English by Marken Foo
 - 2020/11/25 added translated tsumeshogi sample headers
 
 ## Summary ##
@@ -40,7 +40,7 @@ Lines beginning with the "#" symbol will be escaped by the parser. These may occ
 
 ## Handicap ##
 
-Handicaps are give in the following format:
+Handicaps are given in the following format:
 
 ~~~
 手合割：平手
@@ -51,7 +51,7 @@ The handicap must be one of the following:
 
 ~~~
 「平手」、「香落ち」、「右香落ち」、「角落ち」、「飛車落ち」、「飛香落ち」、「二枚落ち」、「三枚落ち」、「四枚落ち」、「五枚落ち」、「左五枚落ち」、「六枚落ち」、「八枚落ち」、「十枚落ち」、「その他」
-(TN: "even", "lance", "right lance", "bishop", "rook", "rook-lance", "two piece", "three piece", "four piece", "five piece", "left [lance] five piece", "six piece", "eight piece", "ten piece", "other" )
+(TN: "even", "lance", "right lance", "bishop", "rook", "rook-lance", "two piece", "three piece", "four piece", "five piece", "left [knight] five piece", "six piece", "eight piece", "ten piece", "other" )
 ~~~
 
 When the handicap is not specified, it is assumed to be "even".
@@ -59,12 +59,12 @@ When the handicap is not specified, it is assumed to be "even".
 
 ## Players ##
 
-After the symbols 「先手：」「後手：」「下手：」「上手：」, the player names are given. (TN: sente, gote, shitate (handicap receiver), uwate (handicap giver) respectively).
+After the symbols 「先手：」、「後手：」、「下手：」 or 「上手：」, the player names are given. (TN: sente, gote, shitate (handicap receiver), uwate (handicap giver) respectively).
 
 
 ## Game information ##
 
-Information can be input using lines starting with 「(keyword)：」 (without quotes and brackets)
+Information can be input using lines starting with 「(KEYWORD)：」 (without quotes and brackets)
 
 Following the standard, the following keywords are possible and users can also add other fields.
 
@@ -76,7 +76,7 @@ The date *must* be given in the format 「1999/07/15」。
 End date: 「終了日時」
 Tournament: 「棋戦」
 Opening: 「戦型」
-Heading? (TN: no idea): 「表題」
+Heading: 「表題」
 Time control (initial starting time on clock): 「持ち時間」
 Time expended: 「消費時間」
 Location: 「場所」
@@ -85,7 +85,7 @@ Reference: 「備考」
 
 Sente's name: 「先手省略名」
 Gote's name: 「後手省略名」
-(TN: these name fields are there because the "Players" fields usually contain full name and title/rank, while these are the abbreviated forms used in creating diagrams or for printing.)
+(TN: these name fields are there because the "Players" fields usually contain full name and title/rank, while these fields here are the abbreviated forms used in creating diagrams or for printing.)
 ~~~
 
 
@@ -93,17 +93,17 @@ Gote's name: 「後手省略名」
 
 ~~~
 (TN: Once again, translation followed by symbols)
-Problem ID: 作品番号
-Problem name: 作品名
-Composer: 作者
-Publication (the magazine/book/etc. it was published in): 発表誌
-Date of publication: 発表年月
-Collection: 出典
-Length (number of halfmoves): 手数
-Status (whether it is cooked or sound): 完全性
-Type: 分類
-Prize (if it won a prize or award): 受賞
-Reference (can be used like the same field for games): 備考
+Problem ID: 「作品番号」
+Problem name: 「作品名」
+Composer: 「作者」
+Publication (the magazine/book/etc. it was published in): 「発表誌」
+Date of publication: 「発表年月」
+Collection: 「出典」
+Length (number of halfmoves): 「手数」
+Status (whether it is cooked or sound): 「完全性」
+Type: 「分類」
+Prize (if it won a prize or award): 「受賞」
+Reference (can be used like the same field for games): 「備考」
 ~~~
 
 
@@ -124,14 +124,16 @@ Moves are recorded in the following format.
 "同　" is used when the destination coordinate is the same as that of the immediately preceding move.
 
 <piece>: the name of the piece.
-玉、飛、龍、角、馬、金、銀、成銀、桂、成桂、香、成香、歩、と
-(TN: King, promoted rook, promoted rook (not a typo), bishop, promoted bishop, gold, silver, promoted silver, knight, promoted knight, lance, promoted lance, pawn, promoted pawn)
+玉、飛、龍、竜、角、馬、金、銀、成銀、
+桂、成桂、香、成香、歩、と
+(TN: King, promoted rook, promoted rook (not a typo), bishop, promoted bishop, gold, silver, promoted silver;
+knight, promoted knight, lance, promoted lance, pawn, promoted pawn)
 For the promoted rook, both 「龍」 and 「竜」 may be used.
 For the promoted non-major pieces, the single-kanji alternatives 「全」 (promoted silver), 「圭」 (promoted knight), 「杏」 (promoted lance) may be used, e.g. as used by Tsumeshogi Paradise.
 
 <drop/promote> = ["打" | "成"] (TN: kanji for "drop" and "promote" respectively)
 Drops *must* be noted with 「打」 when they occur.
-When a non-promotion by choice occurs, 「不成」 is not noted.
+When a non-promotion by choice occurs, 「不成」 is *not* noted.
 
 <origin coordinates> = "(11)"～"(99)" ： Inside the parentheses (), a two digit Arabic number with half-width characters.
 ~~~
@@ -151,12 +153,12 @@ Entering king win: 「入玉勝ち」 (indicates the player whose turn this was 
 ~~~
 
 Example of a recorded move: ２三歩成(24)
-(TN: P23+)
+(TN: P23+ in western notation)
 
 
 ## Time expended ##
 
-On the same line as the move, behind the move played, the time spent for the move is recorded.
+On the same line as the move, after the move played, the time spent for the move is recorded.
 
 The time is recorded within parentheses (). The first number is the time spent on that one move in (minute:seconds). The second number is that player's total time expended thus far in the game in (hours:minutes:seconds).
 
@@ -212,7 +214,7 @@ Translated, this reads:
 
 ~~~
 Composer: Itou Souin II
-Source (seeing it in context now, maybe "Collection" is a better translation): Shogi Seimyo
+Collection: Shogi Seimyo
 Problem number: 1 (first problem in the collection)
 Length (number of halfmoves): 33
 Status: Yo-dzume (i.e. duals present)
@@ -232,8 +234,10 @@ Gote pieces in hand: Gold 4  Silver 2  Lance 3  Pawn 13
 +---------------------------+
 Sente pieces in hand: None
 
-[Translation notes: the board position is given by the pieces in hand, and the very visual diagram. In the diagram, the "v" before a kanji indicates it is gote's piece. Without the "v" it is sente's piece.)
+[Translation notes: the board position is given in the human-readable BOD format. In the diagram, the "v" before a kanji indicates it is gote's piece. Without the "v" it is sente's piece.)
 ~~~
+
+Board position format: see [the BOD format](BOD-features.md).
 
 ## Revision history ##
 
