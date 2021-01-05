@@ -10,7 +10,7 @@ Three versions: Java, HTML5, mobile app
 
 It has a long history, and at its peak there were upwards of 5000 concurrent online players, but in recent years it feels like other apps have overtaken it. Now it averages around 1500-2500 online players.
 
-There haven't been many feature updates, and the expression "fossilised" describes it precisely. Even if you pay for the app version, just about all you can do with it is play games.
+There haven't been many feature updates, and the word "fossilised" fits perfectly. Even if you pay for the app version, just about all you can do with it is play games.
 
 The player level is extremely high, and even a player at 0 points is pretty strong. The rating system isn't working. With a long history, it has become a sort of sanctified land. 7-dan (2700) and above players here will probably find no other place to give them a serious challenge.
 

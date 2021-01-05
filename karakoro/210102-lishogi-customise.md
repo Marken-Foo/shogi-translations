@@ -14,7 +14,7 @@ When logged out: [(settings menu in top right when logged out, click on the gear
 
 When logged in: [(settings menu in top right when logged in, click on username)](https://assets.st-note.com/production/uploads/images/42274347/picture_pc_40a6405742990adda78aabd32e9c7f5b.png)
 
-There are a many settings that cannot be changed if not logged in, so definitely do try making an account to play on lishogi.
+There are many settings that cannot be changed if not logged in, so definitely do try making an account to play on lishogi.
 
 
 ## Table of contents ##
@@ -108,7 +108,7 @@ Absolutely recommended.
 
 I've summarised all the settings I recommend to use.
 
-Especially with boards and pieces, there many options that I haven't seen before, so there's still plenty I'd like to try out.
+Especially with boards and pieces, there are many options that I haven't seen before, so there's still plenty I'd like to try out.
 
 As it's still in the early beta stage, there are many missing features and bugs, so if you find any please let us know.
 
