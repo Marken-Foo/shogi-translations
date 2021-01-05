@@ -22,7 +22,7 @@ Just as the grass is greener on the other side, chessplayers are seeing the shog
 
 The majority of lishogi supporters are from overseas, and as someone who didn't know of the existence of the overseas shogi community, the surprises have been coming one after another. They know more about the faraway shogi world than I had thought, even keeping up with the latest news. They tend to be good at languages, and many are skilled at a variety of games, not necessarily just shogi.
 
-At the middle of it all is always Karolina-san. It is uncertain if this community would exist without Karolina-san. Hidetchi-shi's uploaded English videos are also remain very popular. There's probably nobody in the overseas shogi community who hasn't heard of these two people.
+At the middle of it all is always Karolina-san. It is uncertain if this community would exist without Karolina-san. Hidetchi-shi's uploaded English videos also remain very popular. There's probably nobody in the overseas shogi community who hasn't heard of these two people.
 
 <br/>
 
