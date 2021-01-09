@@ -26,7 +26,7 @@ If you like these posts, help out the authors by going to the original note.com 
 
 [Huge lishogi update!](karakoro/201224-huge-lishogi-update.md) - translation of 2020-12-24 note.com post
 
-(NEW!) [lishogi diary 3](karakoro/201229-lishogi-diary-3.md) - translation of 2020-12-29 note.com post
+[lishogi diary 3](karakoro/201229-lishogi-diary-3.md) - translation of 2020-12-29 note.com post
 
 (NEW!) [Data on major shogi sites](karakoro/201230-major-shogi-sites.md) - translation of 2020-12-30 note.com post
 
@@ -39,6 +39,8 @@ If you like these posts, help out the authors by going to the original note.com 
 [lishogi latest updates (as of nighttime, 20th December)](suginami/201220-lishogi-updates.md) - translation of 2020-12-20 note.com post
 
 [lishogi updates and regarding the byoyomi format](suginami/201222-lishogi-updates-and-regarding-byoyomi.md) - translation of 2020-12-22 note.com post
+
+(NEW!) [lishogi latest updates (8th January)](suginami/210108-lishogi-updates.md) - translation of 2021-01-08 note.com post
 
 ## Kifu file format specifications ##
 
