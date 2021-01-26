@@ -28,9 +28,11 @@ If you like these posts, help out the authors by going to the original note.com 
 
 [lishogi diary 3](karakoro/201229-lishogi-diary-3.md) - translation of 2020-12-29 note.com post
 
-(NEW!) [Data on major shogi sites](karakoro/201230-major-shogi-sites.md) - translation of 2020-12-30 note.com post
+[Data on major shogi sites](karakoro/201230-major-shogi-sites.md) - translation of 2020-12-30 note.com post
 
 (NEW!) [lishogi is more fun when you customise it!](karakoro/210102-lishogi-customise.md) - translation of 2021-01-02 note.com post
+
+(NEW!) [lishogi diary 4](karakoro/210121-lishogi-diary-4.md) - translation of 2021-01-21 note.com post
 
 ### By 杉並委員長 (ch_suginami) ###
 
