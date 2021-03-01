@@ -171,7 +171,7 @@ Each move takes one line, and the time spent for that move is on the following l
 
 #### (1) Regular moves ####
 
-Indicated as side to move (`+` or `-`), followed by initial and final squares, followed by the piece name.
+Indicated as side to move (`+` or `-`), followed by initial and final squares, followed by the piece name after the move.
 
 e.g. `+3324NG` is ▲2四銀成
 
