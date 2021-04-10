@@ -44,7 +44,9 @@ If you like these posts, help out the authors by going to the original note.com 
 
 [lishogi updates and regarding the byoyomi format](suginami/201222-lishogi-updates-and-regarding-byoyomi.md) - translation of 2020-12-22 note.com post
 
-(NEW!) [lishogi latest updates (8th January)](suginami/210108-lishogi-updates.md) - translation of 2021-01-08 note.com post
+[lishogi latest updates (8th January)](suginami/210108-lishogi-updates.md) - translation of 2021-01-08 note.com post
+
+(NEW!) [lishogi latest updates (6th April)](suginami/210406-lishogi-updates.md) - translation of 2021-04-06 note.com post
 
 ## Kifu file format specifications ##
 
