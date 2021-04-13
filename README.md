@@ -32,9 +32,15 @@ If you like these posts, help out the authors by going to the original note.com 
 
 [lishogi is more fun when you customise it!](karakoro/210102-lishogi-customise.md) - translation of 2021-01-02 note.com post
 
-(NEW!) [lishogi diary 4](karakoro/210121-lishogi-diary-4.md) - translation of 2021-01-21 note.com post
+[lishogi diary 4](karakoro/210121-lishogi-diary-4.md) - translation of 2021-01-21 note.com post
 
-(NEW!) [lishogi diary 5](karakoro/210225-lishogi-diary-5.md) - translation of 2021-02-25 note.com post
+[lishogi diary 5](karakoro/210225-lishogi-diary-5.md) - translation of 2021-02-25 note.com post
+
+(NEW!) [lishogi diary 6](karakoro/210327-lishogi-diary-6.md) - translation of 2021-03-27 note.com post
+
+(NEW!) [lishogi diary 7](karakoro/210408-lishogi-diary-7.md) - translation of 2021-04-08 note.com post
+
+(NEW!) [Are the lichess team and the lishogi team the same?](karakoro/210410-lichess-lishogi-team.md) - translation of 2021-04-10 note.com post
 
 ### By 杉並委員長 (ch_suginami) ###
 
