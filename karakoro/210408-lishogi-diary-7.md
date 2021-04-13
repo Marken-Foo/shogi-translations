@@ -36,7 +36,7 @@ Recently the number of streamers have gone up. Sometimes I'll take a look, and t
 
 I'm starting to see a few trolls. Sadly, this will happen as more people join. We're near the point where we will need more moderators when a few more players join.
 
-<br/?
+<br/>
 
 The community is still in a fledgling state, and there are many of capable and passionate people gathered. I also frequent the lichess Discord to improve my English, and... it's pretty terrible there. I wonder how much mod time is taken up by that kind of *\[insert adverb\]* bug reporting and suggestions. The earlier Bougyoku tournament saw the online user count stretch to 190, and lishogi might soon be entering this stage.
 
